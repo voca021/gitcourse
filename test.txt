@@ -1,1 +1,2 @@
-update fajla prvi!
+update fajla prvi
+drugi update!
