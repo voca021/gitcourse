@@ -5,5 +5,5 @@ Cetvrti update!
 Peti update!
 Sesti update!
 sedmi update!
-Osmi update!
-deveti update!
+update Hello World
+
